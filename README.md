@@ -1,5 +1,11 @@
 # chrome-history-dedup
 
+[日本語](#日本語) | [English](#english)
+
+---
+
+## 日本語
+
 ブラウザの履歴から重複URLを自動で削除し、最新の訪問だけを残すChrome拡張機能です。
 
 ## 何をするのか
@@ -42,6 +48,8 @@
 | `storage` | 最終実行日時の保存（ポップアップ表示用） |
 
 ---
+
+## English
 
 A Chrome extension that automatically removes duplicate URL entries from your browser history, keeping only the most recent visit.
 
