@@ -1,0 +1,14 @@
+{
+  "manifest_version": 3,
+  "name": "History Deduplicator",
+  "version": "1.0",
+  "description": "Removes duplicate URL visits from Chrome history, keeping only the most recent.",
+  "permissions": ["history", "alarms", "storage"],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "action": {
+    "default_popup": "popup.html",
+    "default_title": "History Deduplicator"
+  }
+}
