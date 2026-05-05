@@ -1,5 +1,7 @@
 # chrome-history-dedup
 
+[日本語](README.ja.md)
+
 A Chrome extension that automatically removes duplicate URL entries from your browser history, keeping only the most recent visit.
 
 ## What it does
